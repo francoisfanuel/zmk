@@ -1,0 +1,2 @@
+config SHIELD_FANUPAD
+	def_bool $(shields_list_contains,fanupad)
