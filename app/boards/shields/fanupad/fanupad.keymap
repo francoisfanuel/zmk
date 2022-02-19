@@ -12,7 +12,7 @@
 
 		default_layer {
 			bindings = <
-				&kp LG(LR(N1)) &kp F14 &kp F15 &kp F16 &kp F17
+				&kp LG(RG(N1)) &kp F14 &kp F15 &kp F16 &kp F17
 				&mo LOWER &kp F18 &kp F19 &out OUT_BLE &bt BT_NXT
 				>;
 		};
